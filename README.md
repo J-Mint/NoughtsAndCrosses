@@ -1,5 +1,5 @@
 # NoughtsAndCrossesGUI
-A 2 player game of Noughts And Crosses made in Java using Swing for the GUI
+A 2 player game of Noughts And Crosses made in Java using Swing for the GUI. See master branch for src code.
 
 ## Demo
 https://user-images.githubusercontent.com/112823669/214658024-234d0436-1229-405f-acf7-93b4c7dc48df.mp4
