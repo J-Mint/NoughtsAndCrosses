@@ -22,7 +22,6 @@ I watched the video once and sought to reproduce it as best I could. There was a
 
 ## How I would improve the program
 - There isn't a way to restart the game once it's over. I would add a GUI window asking to play again.
-- Was lazy and copied the if statements that check the winning combinations. Could have used else if statements instead but this wouldn't have had any impact.
 
 
 ## What's next?
